@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+sparknlp
+scipy
+scikit-learn
+pyspark
+fastapi[all]
