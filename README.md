@@ -16,7 +16,6 @@ The pipeline created in this project is able to detect following entity types fr
 
 ## Files
 
-- `ner_project.ipynb`: Jupyter notebook that experiments pre-processings(downloading pre-trained models) and named entity recognition pipeline for demonstration.
 - `extraction_model/`:
   - `config/`
     - `config.py`: Configuration settings for the NER model.
